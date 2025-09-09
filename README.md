@@ -36,7 +36,7 @@
   <h1>RYZEN TEAM</h1>
   <h2>LEADERBOARDS</h2>
   <div class="section">
-    <!-- Εδώ γράφεις ό,τι θέλεις -->
+    <!-- DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD -->
   </div>
 
   <h2>HARDEST COMPETITIONS</h2>
